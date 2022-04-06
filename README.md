@@ -39,3 +39,6 @@
 * X_test  --> test data without target 
 * K: K neighbors
 
+- Total Attributes - 9
+- Number of instances - 768
+- Score (Accuracy) - 74.4%
