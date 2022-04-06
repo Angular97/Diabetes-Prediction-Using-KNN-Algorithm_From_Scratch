@@ -42,3 +42,4 @@
 - Total Attributes - 9
 - Number of instances - 768
 - Score (Accuracy) - 74.4%
+- [View Notebook](https://github.com/Angular97/Diabetes-Prediction-Using-KNN-Algorithm_From_Scratch/blob/main/Diabetes_Prediction_Using_KNN_Algorithm_From_Scratch.ipynb)
